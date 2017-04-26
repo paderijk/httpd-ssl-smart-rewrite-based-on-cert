@@ -1,0 +1,1 @@
+# httpd-ssl-smart-rewrite-based-on-cert
