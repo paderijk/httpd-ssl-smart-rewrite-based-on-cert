@@ -4,6 +4,8 @@
 
 This script and settings are developed because on an VPS I run multiple websites, which do or do not have an SSL-Certificate.
 
+With this configuration and script, Apache will rewrite to HTTPS in case the there is a `X509v3 Subject Alternative Name` for the `HTTP_HOST`.
+
 ## Prerequisites
 
 * Apache webserver
